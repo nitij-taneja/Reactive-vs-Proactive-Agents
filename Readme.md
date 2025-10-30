@@ -1,7 +1,11 @@
 # 🧠 Dual-Agent AI Content Strategist: Streamlit Showcase
+![Demo](https://github.com/nitij-taneja/Reactive-vs-Proactive-Agents/blob/main/dual-agent-ai-content-strategist-streamlit-personal-microsoft-edge-2025-10_bdmLVHc6.gif)
 
 This project is a professional, interactive demonstration of modern agentic AI frameworks, designed to be showcased on platforms like LinkedIn. It highlights key concepts in AI engineering: **Constraint Modeling**, **Task Execution**, **Parallel Processing**, and **Tool Usage** within a practical, real-world application: **Content Strategy and Generation**.
 
+Video: https://drive.google.com/file/d/18NkvcrkhxUuKaDemVEWJkCnZKjomAphC/view?usp=sharing
+
+Live Link: https://reactivevsproactiveagentsbynitijtaneja.streamlit.app/
 ## Project Files
 
 | File | Description |
